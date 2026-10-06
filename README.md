@@ -3,4 +3,4 @@ sistema de software para um E-commerce, seguindo os requisitos porpostos.
 
 
 
-![Diagrama DER](./BolosNeideDER.jpg)
+![Diagrama DER](./GeekDER.jpg)
